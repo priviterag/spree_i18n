@@ -137,6 +137,14 @@ it:
       zone: 
         description: 'Descrizione'
         name: 'Nome'
+    errors:
+      models:
+        creditcard:
+          attributes:
+            number:
+              blank: "Inserire il numero della carta di credito"
+            verification_value:
+              blank: "Inserire il codice di verifica (CVV) della carta"
     models: 
       address: 
         one: 'Indirizzo'
