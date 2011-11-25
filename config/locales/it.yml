@@ -26,9 +26,9 @@ it:
         city: 'Città'
         country: "Paese"
         first_name_begins_with: "Il Nome inizia con"
-        firstname: "First Name"
+        firstname: "Nome"
         last_name_begins_with: "Il Cognome inizia con"
-        lastname: "Last Name"
+        lastname: "Cognome"
         phone: 'Telefono'
         state: "Stato"
         zipcode: "CAP"
@@ -68,7 +68,7 @@ it:
         quantity: 'Quantità'
       order: 
         checkout_complete: "Pagamento Completato"
-        completed_at: "Completed At"
+        completed_at: "Data"
         coupon_code: "Coupon Code"
         ip_address: "Indirizzo IP"
         item_total: "Oggetti Totali"
@@ -931,7 +931,7 @@ it:
   shipment_updated: "Spedizione aggiornata"
   shipments: "Spedizioni"
   shipped: "Spedita"
-  shipping: "In consegna"
+  shipping: "Spedizione"
   shipping_address: "Indirizzo di consegna"
   shipping_categories: "Categorie di spedizione"
   shipping_categories_description: "Modifica le categorie di spedizione dei prodotti"
